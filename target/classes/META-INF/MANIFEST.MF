@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Built-By: mansoorparambath
+Class-Path: dependency-jars/vertx-web-3.0.0.jar dependency-jars/vertx-
+ core-3.0.0.jar dependency-jars/netty-common-4.0.28.Final.jar dependen
+ cy-jars/netty-buffer-4.0.28.Final.jar dependency-jars/netty-transport
+ -4.0.28.Final.jar dependency-jars/netty-handler-4.0.28.Final.jar depe
+ ndency-jars/netty-codec-4.0.28.Final.jar dependency-jars/netty-codec-
+ http-4.0.28.Final.jar dependency-jars/jackson-core-2.5.3.jar dependen
+ cy-jars/jackson-databind-2.5.3.jar dependency-jars/jackson-annotation
+ s-2.5.0.jar dependency-jars/vertx-auth-common-3.0.0.jar
+Build-Jdk: 1.8.0_201
+Created-By: Maven Integration for Eclipse
+Main-Class: com.virtusa.Finoswatcher.App
+
